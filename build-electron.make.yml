@@ -1,0 +1,80 @@
+core: 7.x
+api: 2
+
+projects:
+	drupal:
+		version: ~
+	addressfield:
+		version: ~
+	admin_menu:
+		version: ~
+	admin_views:
+		version: ~
+	backup_migrate:
+		version: ~
+	block_class:
+		version: ~
+	captcha:
+		version: ~
+	cck:
+		version: ~
+	ckeditor:
+		version: ~
+	coffee:
+		version: ~
+	ctools:
+		version: ~
+	date:
+		version: ~
+	devel:
+		version: ~
+	dragndrop_upload:
+		version: ~
+	ds:
+		version: ~
+	email:
+		version: ~
+	features:
+		version: ~
+	googleanalytics:
+		version: ~
+	jquery_update:
+		version: ~
+	library:
+		version: ~
+	list:
+		version: ~
+	link:
+		version: ~
+	masquerade:
+		version: ~
+	metatag:
+		version: ~
+	module_filter:
+		version: ~
+	number:
+		version: ~
+	omega:
+		version: ~
+		branch: "7.x-4.x"
+		type: theme
+	options:
+		version: ~
+	pathauto:
+		version: ~
+	rules:
+		version: ~
+	shadowbox:
+		version: ~
+	site_map:
+		version: ~
+	styleguide:
+		version: ~
+	styleguide_palette:
+		version: ~
+	views:
+		version: ~
+	views_bulk_operations:
+		version: ~
+	webform:
+		version: ~
