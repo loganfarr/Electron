@@ -1,2 +1,3 @@
 # electron
-A Drupal boiler plate installation profile
+Drush MAKE file for commonly-used modules
+
