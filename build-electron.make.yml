@@ -36,7 +36,7 @@ projects:
 		version: ~
 	features:
 		version: ~
-	googleanalytics:
+	google_analytics:
 		version: ~
 	jquery_update:
 		version: ~
@@ -78,3 +78,8 @@ projects:
 		version: ~
 	webform:
 		version: ~
+
+libraries:
+	shadowbox:
+		type: "file"
+		url: "https://github.com/mjackson/shadowbox/archive/master.zip"
