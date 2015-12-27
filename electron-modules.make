@@ -30,6 +30,20 @@ projects[] = rules
 projects[] = shadowbox
 projects[] = site_map
 projects[] = styleguide
+projects[] = superfish
 projects[] = views
 projects[] = views_bulk_operations
 projects[] = webform
+
+;Library files
+libraries[superfish][download][type] = get
+libraries[superfish][download][url] = https://github.com/mehrpadin/Superfish-for-Drupal/archive/master.zip
+libraries[superfish][directory_name] = "superfish"
+libraries[superfish][destination] = "libraries"
+
+libraries[jquery.easing][download][type] = get
+libraries[jquery.easing][download][url] = http://gsgd.co.uk/sandbox/jquery/easing/jquery.easing.1.3.js
+libraries[jquery.easing][directory_name] = "easing"
+libraries[jquery.easing][destination] = "libraries"
+
+
