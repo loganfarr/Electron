@@ -18,7 +18,6 @@ projects[] = dragndrop_upload
 projects[] = ds
 projects[] = email
 projects[] = entity
-projects[] = entity_token
 projects[] = features
 projects[] = google_analytics
 projects[] = jquery_update
